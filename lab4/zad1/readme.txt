@@ -1,0 +1,4 @@
+Opis programu: 
+
+Uruchamienie: 
+	
